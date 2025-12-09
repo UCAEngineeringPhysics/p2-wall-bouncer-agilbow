@@ -85,6 +85,11 @@ Major required components are listed below:
 - Denote locations of the mounting holes.
 - Denote dimensions of the mounting holes.
 
+<img width="1103" height="792" alt="robotics-project-2-mobile-base-and-mounting-holes-dimensions-locations" src="https://github.com/user-attachments/assets/1b6a8ef5-fc46-4cd3-acd0-c9c770484549" />
+
+<img width="545" height="812" alt="robotics-project-2-mobile-base-wheel-guards-dimensions" src="https://github.com/user-attachments/assets/ffe5b092-2a9d-458f-9f02-454cad34f45b" />
+
+
 > [!TIP]
 > - You may want to checkout TechDraw of FreeCAD. Other CAD software should have the similar tools.  
 > - Hand drawings are acceptable.
