@@ -89,6 +89,10 @@ Major required components are listed below:
 
 <img width="545" height="812" alt="robotics-project-2-mobile-base-wheel-guards-dimensions" src="https://github.com/user-attachments/assets/ffe5b092-2a9d-458f-9f02-454cad34f45b" />
 
+<img width="931" height="745" alt="robotics-project-2-caster-wheel-location" src="https://github.com/user-attachments/assets/f1f8b5f8-4738-4daa-94d4-7d2d147ed0a4" />
+
+<img width="930" height="755" alt="robotics-project-2-wheel-location" src="https://github.com/user-attachments/assets/9d2df480-dc1d-4816-aab9-809ca6692b64" />
+
 
 > [!TIP]
 > - You may want to checkout TechDraw of FreeCAD. Other CAD software should have the similar tools.  
