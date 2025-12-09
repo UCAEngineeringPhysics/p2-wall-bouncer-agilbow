@@ -109,4 +109,8 @@ Use a [flowchart](https://en.wikipedia.org/wiki/Flowchart) or a [algorithm/pseud
 #### 3.4 (4%) Energy Efficient Path Planning 
 > The goal is using this robot to cover a rectangle-shape area.
 > Do your research, make reasonable assumptions and propose a path pattern for the robot to follow.
-> Please state why this pattern is energy efficient.  
+> Please state why this pattern is energy efficient.
+>
+> A path pattern for the robot to follow to cover a rectangle-shape area that is energy efficient is to start in a corner and run around the perimeter.
+> Once the perimeter has been covered, the robot should then move inward and follow the same path but for a smaller rectangle that fits within the previous path.
+> This particular path pattern is energy efficient because it reduces the amount of energy spent on reversing and frequent turning, since the robot only needs to turn a single time each time it stops.
