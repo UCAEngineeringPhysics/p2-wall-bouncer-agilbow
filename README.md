@@ -103,6 +103,9 @@ Major required components are listed below:
 - Mark out employed signal pins' names.
 - Electronic components' values have to match your actual circuit.
 
+<img width="974" height="670" alt="image" src="https://github.com/user-attachments/assets/c60ed37a-8f2c-44c3-8805-b7cbea0491d1" />
+
+
 #### 3.3 (6%) Software Design
 Use a [flowchart](https://en.wikipedia.org/wiki/Flowchart) or a [algorithm/pseudocode table](https://www.overleaf.com/learn/latex/Algorithms) or a [itemized list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) to explain your wall avoidance strategy.
 
