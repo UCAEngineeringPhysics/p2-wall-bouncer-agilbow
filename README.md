@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LMWu6GmP)
 # Project 2: Wall Bouncer
 
 ## Background
@@ -84,6 +85,15 @@ Major required components are listed below:
 - Denote locations of the mounting holes.
 - Denote dimensions of the mounting holes.
 
+<img width="1103" height="792" alt="robotics-project-2-mobile-base-and-mounting-holes-dimensions-locations" src="https://github.com/user-attachments/assets/1b6a8ef5-fc46-4cd3-acd0-c9c770484549" />
+
+<img width="545" height="812" alt="robotics-project-2-mobile-base-wheel-guards-dimensions" src="https://github.com/user-attachments/assets/ffe5b092-2a9d-458f-9f02-454cad34f45b" />
+
+<img width="931" height="745" alt="robotics-project-2-caster-wheel-location" src="https://github.com/user-attachments/assets/f1f8b5f8-4738-4daa-94d4-7d2d147ed0a4" />
+
+<img width="930" height="755" alt="robotics-project-2-wheel-location" src="https://github.com/user-attachments/assets/9d2df480-dc1d-4816-aab9-809ca6692b64" />
+
+
 > [!TIP]
 > - You may want to checkout TechDraw of FreeCAD. Other CAD software should have the similar tools.  
 > - Hand drawings are acceptable.
@@ -93,10 +103,20 @@ Major required components are listed below:
 - Mark out employed signal pins' names.
 - Electronic components' values have to match your actual circuit.
 
+<img width="974" height="670" alt="image" src="https://github.com/user-attachments/assets/c60ed37a-8f2c-44c3-8805-b7cbea0491d1" />
+
+
 #### 3.3 (6%) Software Design
 Use a [flowchart](https://en.wikipedia.org/wiki/Flowchart) or a [algorithm/pseudocode table](https://www.overleaf.com/learn/latex/Algorithms) or a [itemized list](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists) to explain your wall avoidance strategy.
+
+<img width="933" height="458" alt="image" src="https://github.com/user-attachments/assets/b778211e-d662-4653-8d9a-34d119c7a40d" />
+
 
 #### 3.4 (4%) Energy Efficient Path Planning 
 > The goal is using this robot to cover a rectangle-shape area.
 > Do your research, make reasonable assumptions and propose a path pattern for the robot to follow.
-> Please state why this pattern is energy efficient.  
+> Please state why this pattern is energy efficient.
+>
+> A path pattern for the robot to follow to cover a rectangle-shape area that is energy efficient is to start in a corner and run around the perimeter.
+> Once the perimeter has been covered, the robot should then move inward and follow the same path but for a smaller rectangle that fits within the previous path.
+> This particular path pattern is energy efficient because it reduces the amount of energy spent on reversing and frequent turning, since the robot only needs to turn a single time each time it stops.
